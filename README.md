@@ -45,5 +45,6 @@ The users are the professionals at CERN, so they can actually make sense of the 
     ![data in tables but visual](images/visual-table.png)
     This could help with the readabilty of the tables, so users can easily inline and search.
 
-
+### Nice example of how to make readable tables
+![example gif](images/better-tables.gif)
 
