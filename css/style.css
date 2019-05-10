@@ -103,8 +103,6 @@ main {
 
 .table-bordered th, 
 .table-bordered td {
-    border: 1px solid #dee2e6;
-    display: block;
     display: block;
     color: #495057;
     border-color: #dee2e6;
@@ -115,6 +113,11 @@ main {
     font-size: 13px;
     text-overflow: ellipsis;
     position: sticky;
+}
+
+.table-bordered td  {
+    border-bottom: 1px solid #F7F7F7;
+    border-right: 1px solid #E9ECEF;
 }
 
 .table-bordered tbody {
